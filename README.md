@@ -1,1 +1,1 @@
-# gpt-discord-bot
+# black-jack
